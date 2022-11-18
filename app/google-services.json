@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "844616732094",
+    "project_id": "media-tvri",
+    "storage_bucket": "media-tvri.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844616732094:android:4756c7bc12f9e8428d3def",
+        "android_client_info": {
+          "package_name": "com.tvri.media"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "844616732094-mek84pg8qktokj6bl54flgrhn47df6me.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tvri.media",
+            "certificate_hash": "8f83fb3f69be4d1c28de97eea56462aaf94309e8"
+          }
+        },
+        {
+          "client_id": "844616732094-gfp2t9csui1gnoju369dmh7oslnlp2gh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1POzNbAVDN3Nt2Rb6JUisv-SYwastCLg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "844616732094-gfp2t9csui1gnoju369dmh7oslnlp2gh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
